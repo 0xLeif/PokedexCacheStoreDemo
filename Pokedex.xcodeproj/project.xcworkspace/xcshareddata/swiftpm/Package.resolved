@@ -1,0 +1,50 @@
+{
+  "pins" : [
+    {
+      "identity" : "c",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/0xOpenBytes/c",
+      "state" : {
+        "revision" : "96ecba028f4dd8c6c3011e375fe09f6b8cdfd9b6",
+        "version" : "1.2.0"
+      }
+    },
+    {
+      "identity" : "cachestore",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/0xOpenBytes/CacheStore",
+      "state" : {
+        "revision" : "14e95500e1ef2c416f6061b56b55e0ed12083ca5",
+        "version" : "3.3.0"
+      }
+    },
+    {
+      "identity" : "swift-custom-dump",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/0xLeif/swift-custom-dump",
+      "state" : {
+        "revision" : "9df7aaf030cedf633f74f9f2a1d389426b4aab84",
+        "version" : "0.4.1"
+      }
+    },
+    {
+      "identity" : "t",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/0xOpenBytes/t",
+      "state" : {
+        "revision" : "78294df737c524f40267bca42beb8e10ca28aa41",
+        "version" : "0.2.0"
+      }
+    },
+    {
+      "identity" : "xctest-dynamic-overlay",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/pointfreeco/xctest-dynamic-overlay",
+      "state" : {
+        "revision" : "16e6409ee82e1b81390bdffbf217b9c08ab32784",
+        "version" : "0.5.0"
+      }
+    }
+  ],
+  "version" : 2
+}
