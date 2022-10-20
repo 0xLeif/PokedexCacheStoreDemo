@@ -1,1 +1,3 @@
 # PokedexCacheStoreDemo
+
+![](.media/demo.gif)
